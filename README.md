@@ -29,21 +29,21 @@ ________________________________________________________________________________
 
 ### Employee-Centric:
 
-Intuitive Request Interface: Employees can easily submit vacation requests with a few clicks, specifying dates, type of leave, and any relevant details.
-Real-time Balance Tracking: A clear dashboard displays remaining vacation days, empowering employees to plan their time off responsibly.
-Request History: Employees can access a record of their past leave requests and their statuses.
+- Intuitive Request Interface: Employees can easily submit vacation requests with a few clicks, specifying dates, type of leave, and any relevant details.
+- Real-time Balance Tracking: A clear dashboard displays remaining vacation days, empowering employees to plan their time off responsibly.
+- Request History: Employees can access a record of their past leave requests and their statuses.
 
 ### Managerial Control:
 
-Approval Workflow: Managers can review and approve or deny vacation requests based on team schedules and company policies.
-Team Calendar: A centralized calendar provides an overview of all team member leave, facilitating workload planning and avoiding scheduling conflicts.
-Report Generation: Managers can generate reports on vacation usage, identifying trends and optimizing resource allocation.
+- Approval Workflow: Managers can review and approve or deny vacation requests based on team schedules and company policies.
+- Team Calendar: A centralized calendar provides an overview of all team member leave, facilitating workload planning and avoiding scheduling conflicts.
+- Report Generation: Managers can generate reports on vacation usage, identifying trends and optimizing resource allocation.
 
 ### Additional Functionalities:
 
-Leave Accrual Tracking: The system automatically tracks leave accrual based on company policies, ensuring fair and accurate vacation balances.
-Policy Configuration: Administrators can configure different leave types (vacation, sick leave, personal leave) with specific accrual rules and approval workflows.
-Notification System: Automated email or in-app notifications keep employees and managers informed about request statuses and upcoming leave periods.
+- Leave Accrual Tracking: The system automatically tracks leave accrual based on company policies, ensuring fair and accurate vacation balances.
+- Policy Configuration: Administrators can configure different leave types (vacation, sick leave, personal leave) with specific accrual rules and approval workflows.
+- Notification System: Automated email or in-app notifications keep employees and managers informed about request statuses and upcoming leave periods.
 
     
 _______________________________________________________________________________________________________________________________________________________________________________________________________
