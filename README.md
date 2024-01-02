@@ -25,10 +25,10 @@ Actionable Insights: Generate comprehensive reports to analyze vacation usage, i
 
 # Actors
 
--Employee.
--Manager.
--HR Clerck.
--System Admin.
+- Employee.
+- Manager.
+- HR Clerck.
+- System Admin.
 
 # Use Cases
 
