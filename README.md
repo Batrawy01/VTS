@@ -37,7 +37,7 @@ Actionable Insights: Generate comprehensive reports to analyze vacation usage, i
 - Edit or Withdraw Request.
 
 
-## ***Manage Time***
+# ***Manage Time***
 
 ### Request State Machine Diagram
 ![State Machine diagram](https://github.com/Batrawy01/VTS/assets/155172502/64a710dc-40ac-4e94-a1b5-0ecd9c0f025f)
@@ -56,14 +56,14 @@ Actionable Insights: Generate comprehensive reports to analyze vacation usage, i
 
 
 
-## ***Cancel Request***
+# ***Cancel Request***
 ![Cancel Sequence Diagram](https://github.com/Batrawy01/VTS/assets/155172502/811c74d7-aaf3-4d1e-840c-f570e58aee61)
 
 
 
 
 
-## ***Edit or Withdraw Request***
+# ***Edit or Withdraw Request***
 ![Edit or Withdraw Sequence](https://github.com/Batrawy01/VTS/assets/155172502/062f7d02-2a5d-48e9-89ae-89a36c48fe1d)
 
 
