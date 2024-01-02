@@ -20,33 +20,32 @@ Actionable Insights: Generate comprehensive reports to analyze vacation usage, i
 - Increased employee satisfaction: Simplified requesting process, greater transparency, and better informed time-off planning.
 - Enhanced managerial efficiency: Reduced administrative burden, streamlined approvals, and improved team visibility.
 - Data-driven decision making: Leverage insightful reports to optimize staffing, improve scheduling, and boost overall organizational productivity.
-_______________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+## Actors
+
+-Employee.
+-Manager.
+-HR Clerck.
+-System Admin.
+
+## Use Cases
+
+- Manage Time(Create Request).
+- Cancel Request.
+- Edit or Withdraw Request.
+
+
+## Manage Time
+![State Machine diagram](https://github.com/Batrawy01/VTS/assets/155172502/64a710dc-40ac-4e94-a1b5-0ecd9c0f025f)
+
 
 ## Technologies
+
+Microsoft Visio
+
 ----------------------------------------------------------------------------
 
-## Features
 
-### Employee-Centric:
-
-- Intuitive Request Interface: Employees can easily submit vacation requests with a few clicks, specifying dates, type of leave, and any relevant details.
-- Real-time Balance Tracking: A clear dashboard displays remaining vacation days, empowering employees to plan their time off responsibly.
-- Request History: Employees can access a record of their past leave requests and their statuses.
-
-### Managerial Control:
-
-- Approval Workflow: Managers can review and approve or deny vacation requests based on team schedules and company policies.
-- Team Calendar: A centralized calendar provides an overview of all team member leave, facilitating workload planning and avoiding scheduling conflicts.
-- Report Generation: Managers can generate reports on vacation usage, identifying trends and optimizing resource allocation.
-
-### Additional Functionalities:
-
-- Leave Accrual Tracking: The system automatically tracks leave accrual based on company policies, ensuring fair and accurate vacation balances.
-- Policy Configuration: Administrators can configure different leave types (vacation, sick leave, personal leave) with specific accrual rules and approval workflows.
-- Notification System: Automated email or in-app notifications keep employees and managers informed about request statuses and upcoming leave periods.
-
-    
-_______________________________________________________________________________________________________________________________________________________________________________________________________
-
-## Setup
 
