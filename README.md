@@ -1,6 +1,6 @@
 # Vacation Tracking System
 
-## Introduction
+# Introduction
 
 Imagine a world where managing employee vacation is effortless. No more overflowing inboxes, misplaced forms, or forgotten requests. Enter the Vacation Tracking System, your one-stop solution for streamlined time-off management.
 
@@ -23,14 +23,14 @@ Actionable Insights: Generate comprehensive reports to analyze vacation usage, i
 
 
 
-## Actors
+# Actors
 
 -Employee.
 -Manager.
 -HR Clerck.
 -System Admin.
 
-## Use Cases
+# Use Cases
 
 - Manage Time(Create Request).
 - Cancel Request.
@@ -38,7 +38,30 @@ Actionable Insights: Generate comprehensive reports to analyze vacation usage, i
 
 
 ## Manage Time
+
+### Request State Machine Diagram
 ![State Machine diagram](https://github.com/Batrawy01/VTS/assets/155172502/64a710dc-40ac-4e94-a1b5-0ecd9c0f025f)
+
+### Employee Flowchart
+![Employee Flow](https://github.com/Batrawy01/VTS/assets/155172502/371ac4a9-18da-4237-bf20-d52ab6b1d444)
+### Employee Sequence Diagram
+![Employee request sequence](https://github.com/Batrawy01/VTS/assets/155172502/1b760ec1-51ea-4760-a20c-0ab6799a6e18)
+
+### Manager Flowchart
+![Manager Flow](https://github.com/Batrawy01/VTS/assets/155172502/c9b476d9-9df0-4fe9-a25a-4a0450552cf2)
+### Manager Sequence Diagram
+![Manager request sequence](https://github.com/Batrawy01/VTS/assets/155172502/f7a1605b-149c-42dd-a10a-35da3fa6600d)
+
+
+## Cancel Request
+![Cancel Sequence Diagram](https://github.com/Batrawy01/VTS/assets/155172502/811c74d7-aaf3-4d1e-840c-f570e58aee61)
+
+## Edit or Withdraw Request
+![Edit or Withdraw Sequence](https://github.com/Batrawy01/VTS/assets/155172502/062f7d02-2a5d-48e9-89ae-89a36c48fe1d)
+
+
+
+
 
 
 ## Technologies
